@@ -1,0 +1,1176 @@
+[
+  {
+    "slug": "file",
+    "label": "File",
+    "definition": "A named collection of stored information, such as a notebook, image, or text document.",
+    "lesson": 1,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6007",
+        "title": "Module 1: Python project structure for AI",
+        "url": "https://ains6007.courses.castalia.institute/book/modules/module-1/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "folder",
+    "label": "Folder",
+    "definition": "A container used to organize files and other folders.",
+    "lesson": 1,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6007",
+        "title": "Module 1: Python project structure for AI",
+        "url": "https://ains6007.courses.castalia.institute/book/modules/module-1/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "cloud-computing",
+    "label": "Cloud computing",
+    "definition": "Using computing resources on another computer through a network, rather than running everything on your own device.",
+    "lesson": 1,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6006",
+        "title": "Module 6: Cloud integration and cost control",
+        "url": "https://ains6006.courses.castalia.institute/book/modules/module-6/book-prose.html"
+      },
+      {
+        "course": "AINS6003",
+        "title": "Module 8: GPU workflows, scale, and deployment",
+        "url": "https://ains6003.courses.castalia.institute/book/modules/module-8/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "github",
+    "label": "GitHub",
+    "definition": "A service that hosts Git repositories and supports collaboration, access control, and project history.",
+    "lesson": 2,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6007",
+        "title": "Module 1: Python project structure for AI",
+        "url": "https://ains6007.courses.castalia.institute/book/modules/module-1/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "repository",
+    "label": "Repository",
+    "definition": "A project whose files and version history are tracked together. A GitHub repository can be public or private.",
+    "lesson": 2,
+    "aliases": [
+      "repositories"
+    ],
+    "learn": [
+      {
+        "course": "AINS6007",
+        "title": "Module 1: Python project structure for AI",
+        "url": "https://ains6007.courses.castalia.institute/book/modules/module-1/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "username",
+    "label": "Username",
+    "definition": "The account identifier used by a service; it can differ from a display name or email address.",
+    "lesson": 2,
+    "aliases": [],
+    "learn": []
+  },
+  {
+    "slug": "git",
+    "label": "Git",
+    "definition": "Software that records changes to project files as commits and supports separate lines of work.",
+    "lesson": 7,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6007",
+        "title": "Module 1: Python project structure for AI",
+        "url": "https://ains6007.courses.castalia.institute/book/modules/module-1/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "branch",
+    "label": "Branch",
+    "definition": "A named line of work in a Git repository, used to develop changes independently.",
+    "lesson": 7,
+    "aliases": [
+      "branches"
+    ],
+    "learn": [
+      {
+        "course": "AINS6007",
+        "title": "Module 4: Testing and continuous integration",
+        "url": "https://ains6007.courses.castalia.institute/book/modules/module-4/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "commit",
+    "label": "Commit",
+    "definition": "A recorded checkpoint of changes in a Git repository. A local commit is not automatically present on GitHub.",
+    "lesson": 7,
+    "aliases": [
+      "commits"
+    ],
+    "learn": [
+      {
+        "course": "AINS6007",
+        "title": "Module 4: Testing and continuous integration",
+        "url": "https://ains6007.courses.castalia.institute/book/modules/module-4/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "push",
+    "label": "Push",
+    "definition": "Transfer local Git commits to a remote repository where your account has permission to write.",
+    "lesson": 7,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6007",
+        "title": "Module 4: Testing and continuous integration",
+        "url": "https://ains6007.courses.castalia.institute/book/modules/module-4/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "pull-request",
+    "label": "Pull request",
+    "definition": "A request to review and merge proposed changes between branches.",
+    "lesson": 7,
+    "aliases": [
+      "pull requests"
+    ],
+    "learn": [
+      {
+        "course": "AINS6007",
+        "title": "Module 4: Testing and continuous integration",
+        "url": "https://ains6007.courses.castalia.institute/book/modules/module-4/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "colab",
+    "label": "Colab",
+    "definition": "A browser-based notebook environment that can save notebook copies to Google Drive and execute Python in a cloud runtime.",
+    "lesson": 3,
+    "aliases": [
+      "Google Colab"
+    ],
+    "learn": []
+  },
+  {
+    "slug": "codespaces",
+    "label": "Codespaces",
+    "definition": "Prepared cloud development environments attached to GitHub repositories; access and billing depend on account and organization settings.",
+    "lesson": 6,
+    "aliases": [
+      "GitHub Codespaces",
+      "Codespace"
+    ],
+    "learn": [
+      {
+        "course": "AINS6007",
+        "title": "Module 7: Packaging, environments, and deployment",
+        "url": "https://ains6007.courses.castalia.institute/book/modules/module-7/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "notebook",
+    "label": "Notebook",
+    "definition": "A document that combines explanation, executable code cells, and saved outputs. Jupyter notebooks commonly use the .ipynb extension.",
+    "lesson": 3,
+    "aliases": [
+      "notebooks",
+      "Jupyter notebook"
+    ],
+    "learn": [
+      {
+        "course": "AINS6007",
+        "title": "Module 2: Data handling with Python libraries",
+        "url": "https://ains6007.courses.castalia.institute/book/modules/module-2/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "cell",
+    "label": "Cell",
+    "definition": "One block of a notebook: a text cell explains something, while a code cell contains instructions to execute.",
+    "lesson": 3,
+    "aliases": [
+      "cells"
+    ],
+    "learn": []
+  },
+  {
+    "slug": "runtime",
+    "label": "Runtime",
+    "definition": "The computing session that executes code and holds temporary variables and files; it is separate from a saved notebook document.",
+    "lesson": 3,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6007",
+        "title": "Module 7: Packaging, environments, and deployment",
+        "url": "https://ains6007.courses.castalia.institute/book/modules/module-7/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "python",
+    "label": "Python",
+    "definition": "A programming language used in these courses to express calculations, data transformations, and small applications.",
+    "lesson": 4,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6007",
+        "title": "Module 1: Python project structure for AI",
+        "url": "https://ains6007.courses.castalia.institute/book/modules/module-1/book-prose.html"
+      },
+      {
+        "course": "AINS6002",
+        "title": "Module 2: Data preparation and feature pipelines",
+        "url": "https://ains6002.courses.castalia.institute/book/modules/module-2/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "input",
+    "label": "Input",
+    "definition": "Information supplied to an instruction, calculation, function, or system.",
+    "lesson": 4,
+    "aliases": [
+      "inputs"
+    ],
+    "learn": [
+      {
+        "course": "AINS6001",
+        "title": "Module 1: AI paradigms and system boundaries",
+        "url": "https://ains6001.courses.castalia.institute/book/modules/module-1/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "output",
+    "label": "Output",
+    "definition": "A result produced by an instruction, calculation, function, or system.",
+    "lesson": 4,
+    "aliases": [
+      "outputs"
+    ],
+    "learn": [
+      {
+        "course": "AINS6001",
+        "title": "Module 1: AI paradigms and system boundaries",
+        "url": "https://ains6001.courses.castalia.institute/book/modules/module-1/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "variable",
+    "label": "Variable",
+    "definition": "A name referring to a value in a program. Reassigning the name changes the value it refers to.",
+    "lesson": 4,
+    "aliases": [
+      "variables"
+    ],
+    "learn": [
+      {
+        "course": "AINS6007",
+        "title": "Module 1: Python project structure for AI",
+        "url": "https://ains6007.courses.castalia.institute/book/modules/module-1/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "data-type",
+    "label": "Data type",
+    "definition": "A category of value that affects which operations make sense, such as an integer, string, or Boolean.",
+    "lesson": 4,
+    "aliases": [
+      "data types"
+    ],
+    "learn": [
+      {
+        "course": "AINS6007",
+        "title": "Module 2: Data handling with Python libraries",
+        "url": "https://ains6007.courses.castalia.institute/book/modules/module-2/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "integer",
+    "label": "Integer",
+    "definition": "A whole-number value, such as a count of attendees.",
+    "lesson": 4,
+    "aliases": [
+      "integers"
+    ],
+    "learn": []
+  },
+  {
+    "slug": "string",
+    "label": "String",
+    "definition": "Text represented as a value in a program, usually written inside quotation marks in Python.",
+    "lesson": 4,
+    "aliases": [
+      "strings"
+    ],
+    "learn": [
+      {
+        "course": "AINS6004",
+        "title": "Module 1: Text preprocessing and linguistic signals",
+        "url": "https://ains6004.courses.castalia.institute/book/modules/module-1/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "boolean",
+    "label": "Boolean",
+    "definition": "A truth value: True or False in Python.",
+    "lesson": 4,
+    "aliases": [
+      "booleans"
+    ],
+    "learn": []
+  },
+  {
+    "slug": "condition",
+    "label": "Condition",
+    "definition": "An expression evaluated as true or false, often used to choose which instructions run.",
+    "lesson": 5,
+    "aliases": [
+      "conditions"
+    ],
+    "learn": [
+      {
+        "course": "AINS6301",
+        "title": "Module 2: Playbooks and decision trees",
+        "url": "https://ains6301.courses.castalia.institute/book/modules/module-2/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "list",
+    "label": "List",
+    "definition": "An ordered collection of values in Python, written using square brackets.",
+    "lesson": 5,
+    "aliases": [
+      "lists"
+    ],
+    "learn": [
+      {
+        "course": "AINS6007",
+        "title": "Module 2: Data handling with Python libraries",
+        "url": "https://ains6007.courses.castalia.institute/book/modules/module-2/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "loop",
+    "label": "Loop",
+    "definition": "Instructions that repeat over items or while a condition holds.",
+    "lesson": 5,
+    "aliases": [
+      "loops"
+    ],
+    "learn": [
+      {
+        "course": "AINS6007",
+        "title": "Module 1: Python project structure for AI",
+        "url": "https://ains6007.courses.castalia.institute/book/modules/module-1/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "function",
+    "label": "Function",
+    "definition": "A named, reusable group of instructions that accepts inputs and may return a result.",
+    "lesson": 5,
+    "aliases": [
+      "functions"
+    ],
+    "learn": [
+      {
+        "course": "AINS6007",
+        "title": "Module 3: Model APIs and reusable components",
+        "url": "https://ains6007.courses.castalia.institute/book/modules/module-3/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "parameter",
+    "label": "Parameter",
+    "definition": "A named input in a function definition, or an adjustable value in a model. A function argument supplies an input; model training adjusts model parameters.",
+    "lesson": 5,
+    "aliases": [
+      "parameters"
+    ],
+    "learn": [
+      {
+        "course": "AINS6007",
+        "title": "Module 3: Model APIs and reusable components",
+        "url": "https://ains6007.courses.castalia.institute/book/modules/module-3/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "library",
+    "label": "Library",
+    "definition": "Reusable software that provides operations a program can call instead of implementing them again.",
+    "lesson": 6,
+    "aliases": [
+      "libraries"
+    ],
+    "learn": [
+      {
+        "course": "AINS6007",
+        "title": "Module 2: Data handling with Python libraries",
+        "url": "https://ains6007.courses.castalia.institute/book/modules/module-2/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "terminal",
+    "label": "Terminal",
+    "definition": "A text interface for entering commands and reading their results.",
+    "lesson": 6,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6007",
+        "title": "Module 1: Python project structure for AI",
+        "url": "https://ains6007.courses.castalia.institute/book/modules/module-1/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "traceback",
+    "label": "Traceback",
+    "definition": "A report showing the sequence of calls associated with a Python error, including the error type and a location to investigate.",
+    "lesson": 7,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6007",
+        "title": "Module 4: Testing and continuous integration",
+        "url": "https://ains6007.courses.castalia.institute/book/modules/module-4/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "gemini",
+    "label": "Gemini",
+    "definition": "Google’s AI assistant, integrated into Colab for eligible accounts. Its explanations and proposed actions need checking.",
+    "lesson": 8,
+    "aliases": [],
+    "learn": []
+  },
+  {
+    "slug": "copilot",
+    "label": "Copilot",
+    "definition": "GitHub’s AI assistance, including chat in supported editors when the account has access.",
+    "lesson": 8,
+    "aliases": [
+      "Copilot Chat"
+    ],
+    "learn": [
+      {
+        "course": "AINS6007",
+        "title": "Module 3: Model APIs and reusable components",
+        "url": "https://ains6007.courses.castalia.institute/book/modules/module-3/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "prompt",
+    "label": "Prompt",
+    "definition": "Instructions and context supplied to a generative AI system.",
+    "lesson": 8,
+    "aliases": [
+      "prompts"
+    ],
+    "learn": [
+      {
+        "course": "AINS6004",
+        "title": "Module 6: Conversation design and tool use",
+        "url": "https://ains6004.courses.castalia.institute/book/modules/module-6/book-prose.html"
+      },
+      {
+        "course": "AINS6200",
+        "title": "Module 5: Generative AI for marketing operations",
+        "url": "https://ains6200.courses.castalia.institute/book/modules/module-5/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "artificial-intelligence",
+    "label": "Artificial intelligence",
+    "definition": "A field concerned with systems that perform tasks associated with perception, language, reasoning, learning, or decision support.",
+    "lesson": null,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6001",
+        "title": "Module 1: AI paradigms and system boundaries",
+        "url": "https://ains6001.courses.castalia.institute/book/modules/module-1/book-prose.html"
+      },
+      {
+        "course": "AINS6202",
+        "title": "Module 1: AI strategy and competitive positioning",
+        "url": "https://ains6202.courses.castalia.institute/book/modules/module-1/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "algorithm",
+    "label": "Algorithm",
+    "definition": "A specified sequence of steps for performing a task or solving a problem.",
+    "lesson": 5,
+    "aliases": [
+      "algorithms"
+    ],
+    "learn": [
+      {
+        "course": "AINS6001",
+        "title": "Module 2: Search, planning, and problem formulation",
+        "url": "https://ains6001.courses.castalia.institute/book/modules/module-2/book-prose.html"
+      },
+      {
+        "course": "AINS6201",
+        "title": "Module 4: Optimization and scheduling",
+        "url": "https://ains6201.courses.castalia.institute/book/modules/module-4/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "dataset",
+    "label": "Dataset",
+    "definition": "A collection of records or examples used for analysis, training, or evaluation.",
+    "lesson": null,
+    "aliases": [
+      "datasets"
+    ],
+    "learn": [
+      {
+        "course": "AINS6002",
+        "title": "Module 1: Prediction tasks and data framing",
+        "url": "https://ains6002.courses.castalia.institute/book/modules/module-1/book-prose.html"
+      },
+      {
+        "course": "AINS6006",
+        "title": "Module 2: Pipelines, orchestration, and quality",
+        "url": "https://ains6006.courses.castalia.institute/book/modules/module-2/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "feature",
+    "label": "Feature",
+    "definition": "An input representation used by a model, such as a measured attribute or derived signal.",
+    "lesson": null,
+    "aliases": [
+      "features"
+    ],
+    "learn": [
+      {
+        "course": "AINS6002",
+        "title": "Module 2: Data preparation and feature pipelines",
+        "url": "https://ains6002.courses.castalia.institute/book/modules/module-2/book-prose.html"
+      },
+      {
+        "course": "AINS6300",
+        "title": "Module 1: Security telemetry and threat models",
+        "url": "https://ains6300.courses.castalia.institute/book/modules/module-1/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "model",
+    "label": "Model",
+    "definition": "A computational representation that maps inputs to outputs using learned patterns or specified rules.",
+    "lesson": null,
+    "aliases": [
+      "models"
+    ],
+    "learn": [
+      {
+        "course": "AINS6002",
+        "title": "Module 3: Linear and tree-based baselines",
+        "url": "https://ains6002.courses.castalia.institute/book/modules/module-3/book-prose.html"
+      },
+      {
+        "course": "AINS6001",
+        "title": "Module 4: Machine learning as empirical inference",
+        "url": "https://ains6001.courses.castalia.institute/book/modules/module-4/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "baseline",
+    "label": "Baseline",
+    "definition": "A simple or existing approach used as a reference when comparing another method.",
+    "lesson": null,
+    "aliases": [
+      "baselines"
+    ],
+    "learn": [
+      {
+        "course": "AINS6002",
+        "title": "Module 3: Linear and tree-based baselines",
+        "url": "https://ains6002.courses.castalia.institute/book/modules/module-3/book-prose.html"
+      },
+      {
+        "course": "AINS6001",
+        "title": "Module 5: Evaluation, uncertainty, and error analysis",
+        "url": "https://ains6001.courses.castalia.institute/book/modules/module-5/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "machine-learning",
+    "label": "Machine learning",
+    "definition": "Methods that use examples to fit patterns or decision rules, rather than specifying every rule by hand.",
+    "lesson": null,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6001",
+        "title": "Module 4: Machine learning as empirical inference",
+        "url": "https://ains6001.courses.castalia.institute/book/modules/module-4/book-prose.html"
+      },
+      {
+        "course": "AINS6002",
+        "title": "Module 1: Prediction tasks and data framing",
+        "url": "https://ains6002.courses.castalia.institute/book/modules/module-1/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "training",
+    "label": "Training",
+    "definition": "Adjusting a model using data and a learning objective. Training results alone do not establish performance on new cases.",
+    "lesson": null,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6002",
+        "title": "Module 4: Model selection and validation",
+        "url": "https://ains6002.courses.castalia.institute/book/modules/module-4/book-prose.html"
+      },
+      {
+        "course": "AINS6003",
+        "title": "Module 3: Optimization, loss, and regularization",
+        "url": "https://ains6003.courses.castalia.institute/book/modules/module-3/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "validation",
+    "label": "Validation",
+    "definition": "Using evidence separate from model fitting to assess choices and suitability; the exact procedure depends on the task and setting.",
+    "lesson": null,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6002",
+        "title": "Module 4: Model selection and validation",
+        "url": "https://ains6002.courses.castalia.institute/book/modules/module-4/book-prose.html"
+      },
+      {
+        "course": "AINS6100",
+        "title": "Module 6: Validation, bias, and safety",
+        "url": "https://ains6100.courses.castalia.institute/book/modules/module-6/book-prose.html"
+      },
+      {
+        "course": "AINS6102",
+        "title": "Module 6: Validation and clinical safety cases",
+        "url": "https://ains6102.courses.castalia.institute/book/modules/module-6/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "overfitting",
+    "label": "Overfitting",
+    "definition": "Fitting patterns particular to training examples that do not generalize well to new examples.",
+    "lesson": null,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6002",
+        "title": "Module 4: Model selection and validation",
+        "url": "https://ains6002.courses.castalia.institute/book/modules/module-4/book-prose.html"
+      },
+      {
+        "course": "AINS6003",
+        "title": "Module 3: Optimization, loss, and regularization",
+        "url": "https://ains6003.courses.castalia.institute/book/modules/module-3/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "neural-network",
+    "label": "Neural network",
+    "definition": "A model built from layers of connected computational units with adjustable parameters.",
+    "lesson": null,
+    "aliases": [
+      "neural networks"
+    ],
+    "learn": [
+      {
+        "course": "AINS6003",
+        "title": "Module 1: From neurons to multilayer networks",
+        "url": "https://ains6003.courses.castalia.institute/book/modules/module-1/book-prose.html"
+      },
+      {
+        "course": "AINS6100",
+        "title": "Module 4: Classification and detection",
+        "url": "https://ains6100.courses.castalia.institute/book/modules/module-4/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "gradient",
+    "label": "Gradient",
+    "definition": "A collection of rates of change indicating how a quantity varies with its inputs or parameters.",
+    "lesson": null,
+    "aliases": [
+      "gradients"
+    ],
+    "learn": [
+      {
+        "course": "AINS6003",
+        "title": "Module 2: Backpropagation and automatic differentiation",
+        "url": "https://ains6003.courses.castalia.institute/book/modules/module-2/book-prose.html"
+      },
+      {
+        "course": "AINS6003",
+        "title": "Module 3: Optimization, loss, and regularization",
+        "url": "https://ains6003.courses.castalia.institute/book/modules/module-3/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "loss",
+    "label": "Loss",
+    "definition": "A numerical measure of discrepancy used in a model’s learning objective.",
+    "lesson": null,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6003",
+        "title": "Module 3: Optimization, loss, and regularization",
+        "url": "https://ains6003.courses.castalia.institute/book/modules/module-3/book-prose.html"
+      },
+      {
+        "course": "AINS6002",
+        "title": "Module 4: Model selection and validation",
+        "url": "https://ains6002.courses.castalia.institute/book/modules/module-4/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "embedding",
+    "label": "Embedding",
+    "definition": "A numerical representation designed so that useful relationships can be compared or learned.",
+    "lesson": null,
+    "aliases": [
+      "embeddings"
+    ],
+    "learn": [
+      {
+        "course": "AINS6004",
+        "title": "Module 2: Embeddings and semantic similarity",
+        "url": "https://ains6004.courses.castalia.institute/book/modules/module-2/book-prose.html"
+      },
+      {
+        "course": "AINS6200",
+        "title": "Module 2: Recommendation systems",
+        "url": "https://ains6200.courses.castalia.institute/book/modules/module-2/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "transformer",
+    "label": "Transformer",
+    "definition": "A neural architecture using attention to combine information across positions in a sequence.",
+    "lesson": null,
+    "aliases": [
+      "transformers"
+    ],
+    "learn": [
+      {
+        "course": "AINS6003",
+        "title": "Module 6: Attention and transformers",
+        "url": "https://ains6003.courses.castalia.institute/book/modules/module-6/book-prose.html"
+      },
+      {
+        "course": "AINS6004",
+        "title": "Module 4: Transformers for NLP tasks",
+        "url": "https://ains6004.courses.castalia.institute/book/modules/module-4/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "generative-ai",
+    "label": "Generative AI",
+    "definition": "Systems that produce content such as text, images, or code in response to inputs.",
+    "lesson": 8,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6003",
+        "title": "Module 7: Generative models and applications",
+        "url": "https://ains6003.courses.castalia.institute/book/modules/module-7/book-prose.html"
+      },
+      {
+        "course": "AINS6200",
+        "title": "Module 5: Generative AI for marketing operations",
+        "url": "https://ains6200.courses.castalia.institute/book/modules/module-5/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "retrieval-augmented-generation",
+    "label": "Retrieval-augmented generation",
+    "definition": "A workflow that retrieves relevant material and provides it as context for generation; retrieved context does not guarantee correctness.",
+    "lesson": null,
+    "aliases": [
+      "retrieval augmented generation"
+    ],
+    "learn": [
+      {
+        "course": "AINS6004",
+        "title": "Module 5: Retrieval-augmented generation",
+        "url": "https://ains6004.courses.castalia.institute/book/modules/module-5/book-prose.html"
+      },
+      {
+        "course": "AINS6006",
+        "title": "Module 3: Storage, indexing, and retrieval",
+        "url": "https://ains6006.courses.castalia.institute/book/modules/module-3/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "data-leakage",
+    "label": "Data leakage",
+    "definition": "Information crossing a boundary where it should not be available, such as future outcomes entering model training inputs.",
+    "lesson": null,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6002",
+        "title": "Module 4: Model selection and validation",
+        "url": "https://ains6002.courses.castalia.institute/book/modules/module-4/book-prose.html"
+      },
+      {
+        "course": "AINS6101",
+        "title": "Module 2: Risk stratification and prediction",
+        "url": "https://ains6101.courses.castalia.institute/book/modules/module-2/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "data-pipeline",
+    "label": "Data pipeline",
+    "definition": "A sequence of steps that moves, checks, and transforms data for a defined use.",
+    "lesson": null,
+    "aliases": [
+      "data pipelines"
+    ],
+    "learn": [
+      {
+        "course": "AINS6006",
+        "title": "Module 2: Pipelines, orchestration, and quality",
+        "url": "https://ains6006.courses.castalia.institute/book/modules/module-2/book-prose.html"
+      },
+      {
+        "course": "AINS6007",
+        "title": "Module 2: Data handling with Python libraries",
+        "url": "https://ains6007.courses.castalia.institute/book/modules/module-2/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "provenance",
+    "label": "Provenance",
+    "definition": "A record of where data or an artifact came from and how it was produced.",
+    "lesson": null,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6006",
+        "title": "Module 5: Metadata, lineage, and provenance",
+        "url": "https://ains6006.courses.castalia.institute/book/modules/module-5/book-prose.html"
+      },
+      {
+        "course": "AINS6009",
+        "title": "Module 3: Architecture and data plan",
+        "url": "https://ains6009.courses.castalia.institute/book/modules/module-3/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "privacy",
+    "label": "Privacy",
+    "definition": "How personal information is collected, used, shared, and protected in relation to people’s rights and expectations.",
+    "lesson": null,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6005",
+        "title": "Module 3: Privacy, consent, and data rights",
+        "url": "https://ains6005.courses.castalia.institute/book/modules/module-3/book-prose.html"
+      },
+      {
+        "course": "AINS6101",
+        "title": "Module 7: Privacy and public-health governance",
+        "url": "https://ains6101.courses.castalia.institute/book/modules/module-7/book-prose.html"
+      },
+      {
+        "course": "AINS6200",
+        "title": "Module 7: Privacy, consent, and trust",
+        "url": "https://ains6200.courses.castalia.institute/book/modules/module-7/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "fairness",
+    "label": "Fairness",
+    "definition": "A context-dependent judgment about how a system distributes benefits, burdens, and errors across people or groups.",
+    "lesson": null,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6005",
+        "title": "Module 2: Bias, fairness, and representational harm",
+        "url": "https://ains6005.courses.castalia.institute/book/modules/module-2/book-prose.html"
+      },
+      {
+        "course": "AINS6101",
+        "title": "Module 5: Equity and social determinants",
+        "url": "https://ains6101.courses.castalia.institute/book/modules/module-5/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "governance",
+    "label": "Governance",
+    "definition": "Defined responsibilities, decision rights, controls, and oversight for how a system is developed and used.",
+    "lesson": null,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6005",
+        "title": "Module 6: Governance programs and controls",
+        "url": "https://ains6005.courses.castalia.institute/book/modules/module-6/book-prose.html"
+      },
+      {
+        "course": "AINS6202",
+        "title": "Module 5: Risk appetite and governance",
+        "url": "https://ains6202.courses.castalia.institute/book/modules/module-5/book-prose.html"
+      },
+      {
+        "course": "AINS6302",
+        "title": "Module 7: Governance, compliance, and audit",
+        "url": "https://ains6302.courses.castalia.institute/book/modules/module-7/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "monitoring",
+    "label": "Monitoring",
+    "definition": "Collecting and reviewing operational signals to detect changing performance, risks, or failures after deployment.",
+    "lesson": null,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6008",
+        "title": "Module 7: Operations, monitoring, and governance",
+        "url": "https://ains6008.courses.castalia.institute/book/modules/module-7/book-prose.html"
+      },
+      {
+        "course": "AINS6002",
+        "title": "Module 6: Time, drift, and monitoring",
+        "url": "https://ains6002.courses.castalia.institute/book/modules/module-6/book-prose.html"
+      },
+      {
+        "course": "AINS6300",
+        "title": "Module 7: Security operations integration",
+        "url": "https://ains6300.courses.castalia.institute/book/modules/module-7/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "deployment",
+    "label": "Deployment",
+    "definition": "Making a system available in its intended environment with operational responsibilities and controls.",
+    "lesson": null,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6008",
+        "title": "Module 5: MLOps and release management",
+        "url": "https://ains6008.courses.castalia.institute/book/modules/module-5/book-prose.html"
+      },
+      {
+        "course": "AINS6009",
+        "title": "Module 6: Deployment and operational readiness",
+        "url": "https://ains6009.courses.castalia.institute/book/modules/module-6/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "clinical-decision-support",
+    "label": "Clinical decision support",
+    "definition": "Information or tools intended to assist a clinical decision within a defined care workflow.",
+    "lesson": null,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6102",
+        "title": "Module 1: Clinical decision support foundations",
+        "url": "https://ains6102.courses.castalia.institute/book/modules/module-1/book-prose.html"
+      },
+      {
+        "course": "AINS6100",
+        "title": "Module 1: Clinical imaging workflows",
+        "url": "https://ains6100.courses.castalia.institute/book/modules/module-1/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "causal-inference",
+    "label": "Causal inference",
+    "definition": "Reasoning about the effect of an intervention while accounting for assumptions and alternative explanations.",
+    "lesson": null,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6101",
+        "title": "Module 3: Causal inference and confounding",
+        "url": "https://ains6101.courses.castalia.institute/book/modules/module-3/book-prose.html"
+      },
+      {
+        "course": "AINS6200",
+        "title": "Module 6: Measurement, attribution, and incrementality",
+        "url": "https://ains6200.courses.castalia.institute/book/modules/module-6/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "segmentation",
+    "label": "Segmentation",
+    "definition": "Dividing a whole into meaningful parts; in marketing this can mean customer groups, while imaging uses it for regions in an image.",
+    "lesson": null,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6200",
+        "title": "Module 1: Customer data and segmentation",
+        "url": "https://ains6200.courses.castalia.institute/book/modules/module-1/book-prose.html"
+      },
+      {
+        "course": "AINS6100",
+        "title": "Module 5: Segmentation and measurement",
+        "url": "https://ains6100.courses.castalia.institute/book/modules/module-5/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "automation",
+    "label": "Automation",
+    "definition": "Using software or machinery to carry out specified tasks with defined rules for human intervention.",
+    "lesson": null,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6201",
+        "title": "Module 2: Robotic process automation basics",
+        "url": "https://ains6201.courses.castalia.institute/book/modules/module-2/book-prose.html"
+      },
+      {
+        "course": "AINS6301",
+        "title": "Module 4: Containment and remediation automation",
+        "url": "https://ains6301.courses.castalia.institute/book/modules/module-4/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "risk",
+    "label": "Risk",
+    "definition": "Uncertainty about adverse consequences, considered in relation to likelihood, impact, and the context of a decision.",
+    "lesson": null,
+    "aliases": [
+      "risks"
+    ],
+    "learn": [
+      {
+        "course": "AINS6302",
+        "title": "Module 1: Cyber risk concepts and assets",
+        "url": "https://ains6302.courses.castalia.institute/book/modules/module-1/book-prose.html"
+      },
+      {
+        "course": "AINS6202",
+        "title": "Module 5: Risk appetite and governance",
+        "url": "https://ains6202.courses.castalia.institute/book/modules/module-5/book-prose.html"
+      },
+      {
+        "course": "AINS6008",
+        "title": "Module 2: Stakeholders, requirements, and risk",
+        "url": "https://ains6008.courses.castalia.institute/book/modules/module-2/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "anomaly-detection",
+    "label": "Anomaly detection",
+    "definition": "Identifying observations that differ from an expected or learned pattern; an anomaly is not automatically evidence of a threat.",
+    "lesson": null,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6300",
+        "title": "Module 2: Anomaly detection foundations",
+        "url": "https://ains6300.courses.castalia.institute/book/modules/module-2/book-prose.html"
+      },
+      {
+        "course": "AINS6002",
+        "title": "Module 5: Unsupervised learning and structure discovery",
+        "url": "https://ains6002.courses.castalia.institute/book/modules/module-5/book-prose.html"
+      }
+    ]
+  },
+  {
+    "slug": "incident-response",
+    "label": "Incident response",
+    "definition": "A coordinated process for identifying, managing, and learning from an operational or security incident.",
+    "lesson": null,
+    "aliases": [],
+    "learn": [
+      {
+        "course": "AINS6301",
+        "title": "Module 1: Incident response lifecycle",
+        "url": "https://ains6301.courses.castalia.institute/book/modules/module-1/book-prose.html"
+      },
+      {
+        "course": "AINS6005",
+        "title": "Module 7: Incident response and redress",
+        "url": "https://ains6005.courses.castalia.institute/book/modules/module-7/book-prose.html"
+      }
+    ]
+  }
+]

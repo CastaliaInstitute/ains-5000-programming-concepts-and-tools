@@ -1,0 +1,39 @@
+format: jb-book
+root: intro
+chapters:
+  - file: syllabus
+  - file: reference
+  - file: lessons/module-1
+    sections:
+      - file: notebooks/module-1-lab
+      - file: slides/module-1
+  - file: lessons/module-2
+    sections:
+      - file: notebooks/module-2-lab
+      - file: slides/module-2
+  - file: lessons/module-3
+    sections:
+      - file: notebooks/module-3-lab
+      - file: slides/module-3
+  - file: lessons/module-4
+    sections:
+      - file: notebooks/module-4-lab
+      - file: slides/module-4
+  - file: lessons/module-5
+    sections:
+      - file: notebooks/module-5-lab
+      - file: slides/module-5
+  - file: lessons/module-6
+    sections:
+      - file: notebooks/module-6-lab
+      - file: slides/module-6
+  - file: lessons/module-7
+    sections:
+      - file: notebooks/module-7-lab
+      - file: slides/module-7
+  - file: lessons/module-8
+    sections:
+      - file: notebooks/module-8-lab
+      - file: slides/module-8
+  - file: assessment
+  - file: glossary

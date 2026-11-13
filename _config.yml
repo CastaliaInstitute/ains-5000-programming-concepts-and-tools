@@ -1,0 +1,31 @@
+title: 'AINS5000: Programming Concepts and Tools for AI'
+author: "Castalia Institute \xB7 Aurnova University"
+copyright: '2026'
+only_build_toc_files: true
+execute:
+  execute_notebooks: force
+  timeout: 120
+parse:
+  myst_enable_extensions:
+  - colon_fence
+  - deflist
+  - dollarmath
+exclude_patterns:
+- _build/**
+- site/**
+- .venv/**
+- .git/**
+- .github/**
+- .devcontainer/**
+- README.md
+repository:
+  url: https://github.com/CastaliaInstitute/ains-5000-programming-concepts-and-tools
+  branch: main
+html:
+  use_repository_button: true
+sphinx:
+  config:
+    html_baseurl: https://aurnova.github.io/ains5000-course/book/
+    myst_heading_anchors: 3
+    latex_elements:
+      papersize: letterpaper
